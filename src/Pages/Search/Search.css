@@ -1,0 +1,10 @@
+.searchContent{
+    display: flex;
+    justify-content: center;
+    margin: 15px 0px;
+}
+
+.searchTabs{
+    display: flex;
+    justify-content: center;
+}
